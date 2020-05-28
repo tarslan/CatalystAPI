@@ -37,7 +37,7 @@ namespace CatalystAPI.Controllers
             }
             return movie;
         }
-        //// GET: api/[controller]
+        // GET: api/[controller]
         //[HttpGet("{name}")]
         //public async Task<ActionResult<IEnumerable<TEntity>>> SearchByName(string name)
         //{
